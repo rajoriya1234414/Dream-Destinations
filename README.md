@@ -1,5 +1,5 @@
-# Travel website 2
+# Travel website 
 
 Demo Link - https://rajoriya1234414.github.io/Dream-Destinations/
 
- Travel website 2 (html,css,javascript)
+ Travel website (html,css,javascript)
